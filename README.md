@@ -1,3 +1,2 @@
 # start
-#This line is from Rstudio
-ok
+Trying out Data Analytics in R. Will mostly use popular Datasets.
